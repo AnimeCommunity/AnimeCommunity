@@ -22,25 +22,25 @@ I am in the task of using and implementing other languages and tools such as Rea
 ![Sabrocito](https://static.wixstatic.com/media/214935_623ac5a73ab2403b917151f8e1fb991e~mv2.png/v1/fill/w_636,h_504,al_c,q_85,usm_0.66_1.00_0.01,enc_auto/Image-empty-state.png)
 
 Sabrocito is a delivery system designed for the Mexican food restaurant "Sabrosito". This project combines modern technologies such as Bootstrap, Django, MySQL and JavaScript to offer an easy-to-use and efficient platform for online food ordering.
-TEAM
 
-Aurora Martínez - Design UX/UI
-David Caballero - Backend Developer
-Leonel D'agustino - Frontend Developer
-Santiago Pineda - Frontend Developer
+TEAM
+- Aurora Martínez - Design UX/UI
+- David Caballero - Backend Developer
+- Leonel D'agustino - Frontend Developer
+- Santiago Pineda - Frontend Developer
 
  **[Twitter | React](https://github.com/No-Country/s10-04-t-python-react-twitter")**
  
 ![Twitter clon](https://cdn.discordapp.com/attachments/735207689176612936/1150572601224204399/8XNoVhGIZhGIZhGIZhGIZhGIZhGIZhGIZhGIZhGIZhGIZp8Q90CGRovG56GAAAAABJRU5ErkJggg.png)
 
 This project is a social media platform inspired by the popular Twitter application. It was developed over a period of 5 weeks under the supervision of the company 'No Country.' This platform provides users with the ability to share short messages, follow other users, and engage in public conversations.
-TEAM
 
-David Caballero - Backend Developer
-Agustín Ribotta - Backend Developer
-Santiago Pineda - Backend Developer
-Rocío Sulca - Frontend Developer
-Ever Rojas - Frontend Developer
+TEAM
+- David Caballero - Backend Developer
+- Agustín Ribotta - Backend Developer
+- Santiago Pineda - Backend Developer
+- Rocío Sulca - Frontend Developer
+- Ever Rojas - Frontend Developer
 
 **[Cotizador de criptomonedas](https://github.com/AnimeCommunity/criptomonedas "Cotizador de criptomonedas")**
 
