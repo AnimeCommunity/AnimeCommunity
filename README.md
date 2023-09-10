@@ -50,6 +50,7 @@ Ever Rojas - Frontend Developer
 **[Coins collector](https://m.apkpure.com/coins-collector-in-labyrinth/com.Aniokku.CoinsCollector "Coins collector")**
 
 ![Coins collector](https://portafoliosantiago.pythonanywhere.com/static/Proyectowebapp/img/item-1.png)
+
 Coins Collector is a 3D game in 3rd person. The objective of the game is to find the exit from a maze and obtain a coin. A version for PC and another for mobile phones was developed, which was published in the Google App Store. Unity was implemented as a development engine and C# as a programming language, as well as Google ad libraries.
 
 ## Contact
