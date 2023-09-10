@@ -30,6 +30,7 @@ Leonel D'agustino - Frontend Developer
 Santiago Pineda - Frontend Developer
 
  **[Twitter | React](https://github.com/No-Country/s10-04-t-python-react-twitter")**
+ 
 ![Twitter clon](https://cdn.discordapp.com/attachments/735207689176612936/1150572601224204399/8XNoVhGIZhGIZhGIZhGIZhGIZhGIZhGIZhGIZhGIZhGIZp8Q90CGRovG56GAAAAABJRU5ErkJggg.png)
 
 This project is a social media platform inspired by the popular Twitter application. It was developed over a period of 5 weeks under the supervision of the company 'No Country.' This platform provides users with the ability to share short messages, follow other users, and engage in public conversations.
