@@ -1,6 +1,6 @@
 # Hello there, i'm Santiago
 
-![Imagen de portada]([https://media.discordapp.net/attachments/735207689176612936/1150571367427743804/we_are_hiring.png?ex=68402bd6&is=683eda56&hm=23873d6e2ca9a7056424a1ee0d8c97a92320902db6c114bff0db5b598759829a&=&format=webp&quality=lossless&width=1860&height=465])
+![Imagen de portada](https://media.discordapp.net/attachments/735207689176612936/1150571367427743804/we_are_hiring.png?ex=68402bd6&is=683eda56&hm=23873d6e2ca9a7056424a1ee0d8c97a92320902db6c114bff0db5b598759829a&=&format=webp&quality=lossless&width=1860&height=465)
 
 I have 4 years of experience in web page administration. I am a Python Developer with Django and I have experience using HTML, CSS, MySQL and JavaScript. I also have experience in React Native and I am a Software Developer from the Universidad Nacional de Colombia. In addition, I am a SENA systems technician.
 
